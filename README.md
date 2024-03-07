@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The Glowing Toggle Switch is a simple HTML and CSS implementation that provides a stylish toggle switch with a glowing effect. This code snippet allows you to integrate a customizable toggle switch into your web project effortlessly .
+The Glowing Toggle Switch is a simple HTML and CSS implementation that provides a stylish toggle switch with a glowing effect. This code snippet allows you to integrate a customizable toggle switch into your web project effortlessly.
 
 ## Preview
 ![preview](https://github.com/withaarzoo/Glowing-Toggle-Switch/assets/59678435/7ca3cbb3-e018-417d-8afb-7e3e99874dca)
